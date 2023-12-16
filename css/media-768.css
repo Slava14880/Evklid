@@ -1,0 +1,158 @@
+@media (max-width: 900px) {
+    .header__container {
+        height: 69px;
+    }
+
+    .hero-picture {
+      padding:160px 46px 159px 40px;
+
+  }
+      .search {
+        padding-left: 10px;
+      }
+
+    .title-main {
+      max-width: 588px;
+      font-family: Montserrat;
+      font-size: 50px;
+      font-weight: 800;
+      line-height: 61px;
+      letter-spacing: 0em;
+      text-align: left;
+
+    }
+
+    .card-text {
+      font-family: Montserrat;
+      font-size: 18px;
+      font-weight: 700;
+      line-height: 22px;
+      letter-spacing: 0em;
+      text-align: left;
+
+    }
+
+    .text-about-us {
+      max-width:658px;
+      font-family: Montserrat;
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 32px;
+      letter-spacing: 0em;
+      text-align: left;
+
+    }
+
+    .about-right__text {
+      max-width: 425px;
+    }
+
+    .about-right__item {
+      padding: 36px 43px 33px 298px;;
+    }
+
+    .four-steps {
+      margin-bottom: 42px;
+    }
+
+    .work-right__img {
+      width: 100%;
+      object-fit: cover;
+    }
+
+    .step {
+      padding-right: 156px;
+    }
+
+
+    .nav {
+        height: 731px;
+    }
+
+    .about-content__left {
+        min-height: 648px;
+    }
+
+    .about-left__text {
+        margin: 0;
+        max-width: 366px;
+    }
+
+    .about-left__inner {
+        padding: 35px 39px 33px 41px;
+    }
+
+    .about-right__item {
+        padding: 37px 43px 34px 298px;
+        padding-left: 170px;
+        background-size: 114px 99px;
+        background-position: left 39px top 68px;
+    }
+
+    .about-right__item:first-child {
+        background-position: left 39px top 67px;
+    }
+
+    .work__content {
+       flex-direction: column-reverse;
+    }
+
+    .work-right,
+    .work-left {
+        width: 100%;
+    }
+
+    .work-left__text {
+        max-width: 100%;
+    }
+
+    .work-right {
+        margin-bottom: 40px;
+    }
+
+
+    .questions {
+        padding-bottom: 96px;
+    }
+
+    .how {
+      margin-bottom: 8px;
+    }
+
+    .another-que {
+      max-width: 670px;
+      font-family: Montserrat;
+      font-size: 20px;
+      font-weight: 700;
+      line-height: 32px;
+      letter-spacing: 0em;
+      padding-bottom: 35px;
+    }
+
+
+    .plus_in_circle {
+      padding: 0;
+      margin: 0;
+    }
+
+
+
+    .footer__container {
+        flex-direction: column-reverse;
+    }
+
+    .spisok_footer {
+      display: none;
+    }
+
+    .second-column {
+      margin-bottom: 50px;
+    }
+    .margin-social {
+
+      margin-top: 12px;
+    }
+
+
+  }
+
